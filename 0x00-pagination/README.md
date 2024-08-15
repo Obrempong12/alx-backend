@@ -1,4 +1,6 @@
 # 0x00. Pagination
+![image](https://github.com/user-attachments/assets/9f619d61-5b1d-4bff-893b-e6cc70a273e2)
+![image](https://github.com/user-attachments/assets/b112245f-793c-4302-895b-aa6fe1c67e17)
 ---
 # Descriptions
 This project contains tasks for learning to paginate data.
