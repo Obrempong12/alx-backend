@@ -1,7 +1,7 @@
 # 0x03. Queuing System in JS
 
 This project contains tasks for learning to create a queueing system in JavaScript.
-
+![image](https://github.com/user-attachments/assets/8091b7ee-ab94-4474-88a6-0d3b166b79e9)
 ---
 ## Tasks To Complete
 
